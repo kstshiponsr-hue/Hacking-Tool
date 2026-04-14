@@ -22,6 +22,10 @@
 টার্মাক্স ওপেন করে নিচের কমান্ডগুলো একে একে টাইপ করুন:
 
 ```bash
+# প্যাকেজ ইন্সটল করুন 
+pkg update && pkg upgrade -y
+pkg install python git nano -y
+
 # রিপোজিটরি ক্লোন করুন
 git clone [https://github.com/kstshiponsr-hue/Hacking-Tool.git](https://github.com/kstshiponsr-hue/Hacking-Tool.git)
 
